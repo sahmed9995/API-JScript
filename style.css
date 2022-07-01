@@ -1,0 +1,156 @@
+body {
+    background-color: beige;
+}
+div {
+    border: solid 3px black;
+    margin-bottom: 10px;
+    margin-right: 1200px;
+    margin-left: 10px;
+    margin-top: 50px;
+    padding-top: 150px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    color:rgb(34, 0, 58);
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+#catDiv0 {
+    background-image: url(Images/aby.jfif);
+    background-repeat: no-repeat;
+    padding-top: 240px;
+    margin-right: 1300px;
+
+}
+#catDiv1 {
+    background-image: url(Images/aeg.jfif);
+    background-repeat: no-repeat;
+    padding-top: 250px;
+    margin-right: 1305px;
+}
+#catDiv3 {
+    background-image: url(Images/ambob.jfif);
+    background-repeat: no-repeat;
+}
+#catDiv2 {
+    background-image: url(Images/amcurl.jfif);
+    background-repeat: no-repeat;
+    margin-right: 1210px;
+}
+#catDiv4 {
+    background-image: url(Images/amshort.jfif);
+    background-repeat: no-repeat;
+    margin-right: 1220px;
+}
+#catDiv5 {
+    background-image: url(Images/wire2.jfif);
+    background-repeat: no-repeat;
+    margin-right: 1210px;
+}
+#catDiv6 {
+    background-image: url(Images/arabmau.jfif);
+    background-repeat: no-repeat;
+}
+#catDiv8 {
+    background-image: url(Images/asian.jfif);
+    background-repeat: no-repeat;
+    padding-top: 150px;
+}
+#catDiv9 {
+    background-image: url(Images/asisemi.jfif);
+    background-repeat: no-repeat;
+    padding-top: 170px;
+    margin-right: 1240px;
+}
+#catDiv7 {
+    background-image: url(Images/ausmist.jfif);
+    background-repeat: no-repeat;
+}
+#catDiv10 {
+    background-image: url(Images/balin.jfif);
+    background-repeat: no-repeat;
+    padding-top: 160px;
+    margin-right: 1240px;
+}
+#catDiv11 {
+    background-image: url(Images/bamb.jfif);
+    background-repeat: no-repeat;
+    margin-right: 1230px;
+    padding-top: 170px;
+}
+#catDiv12{
+    background-image: url(Images/bengal.jfif);
+    background-repeat: no-repeat;
+    margin-right: 1215px;
+}
+#catDiv13{
+    background-image: url(Images/birman.jpg);
+    background-repeat: no-repeat;
+}
+#catDiv14{
+    background-image: url(Images/bombay.jfif);
+    background-repeat: no-repeat;
+}
+#catDiv15{
+    background-image: url(Images/braz.jfif);
+    background-repeat: no-repeat;
+    padding-top: 210px;
+    margin-right: 1300px;
+}
+#catDiv16{
+    background-image: url(Images/brits.jfif);
+    background-repeat: no-repeat;
+    padding-top: 160px;
+    margin-right: 1220px;
+}
+#catDiv17{
+    background-image: url(Images/britshort.jfif);
+    background-repeat: no-repeat;
+    margin-right: 1215px;
+
+}
+#catDiv18{
+    background-image: url(Images/britl.jfif);
+    background-repeat: no-repeat;
+    margin-right: 1215px;
+}
+#catDiv19{
+    background-image: url(Images/burmese.webp);
+    background-repeat: no-repeat;
+    margin-right: 1180px;
+    padding-top: 270px;
+}
+#catDiv20{
+    background-image: url(Images/burmilla.jfif);
+    background-repeat: no-repeat;
+    margin-right: 1220px;
+}
+#catDiv21{
+    background-image: url(Images/cali.jfif);
+    background-repeat: no-repeat;
+    padding-top: 240px;
+    margin-right: 1300px;
+}
+#catDiv22{
+    background-image: url(Images/chant.jfif);
+    background-repeat: no-repeat;
+}
+#catDiv23{
+    background-image: url(Images/chart.jpg);
+    background-repeat: no-repeat;
+    padding-top: 170px;
+}
+
+#catDiv24{
+    background-image: url(Images/chau.jfif);
+    background-repeat: no-repeat;
+    margin-right: 1210px;
+}
+
+#catBr {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cat-coat {
+    color:rgb(44, 10, 17);
+}
